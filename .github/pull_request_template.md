@@ -37,9 +37,9 @@
 
 ## 🔗 関連 Issue
 *関連するIssueがある場合は、リンクを記載してください*
-例1.Pull Requestがマージされた時点で自動的にIssueがクローズされる方法） 
+例1.Pull Requestがマージされた時点で自動的にIssueがクローズされる方法:
 Closes #123
-例2.Pull RequestがマージされてもIssueはクローズされない)
+例2.Pull RequestがマージされてもIssueはクローズされない:
 関連: #456, #789
 
 ## 📚 参考資料（任意）
